@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "BTT SKR V1.4\\Firmware\\Marlin-2.0.x-SKR-V1.4-Turbo"
+	}
+],
+"settings": {
+	"C_Cpp.formatting": "Disabled"
+}
+}
